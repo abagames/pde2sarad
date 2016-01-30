@@ -1,0 +1,14 @@
+{
+  "name": "pde2sarad",
+  "version": "1.0.0",
+  "description": "convert codes from pde to sarad",
+  "main": "app/main.js",
+  "author": "ABA",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "jsep": "^0.3.0",
+    "lodash": "^4.0.0",
+    "walk": "^2.3.9"
+  }
+}
